@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public boolean areSiblings(File f1, File f2) {
+        // implement me
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8095
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8095">JetBrains
+    Academy</a></html>
+  time: Mon, 29 Jun 2020 10:12:42 UTC
+record: -1
